@@ -4522,11 +4522,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/ssd1tb/Codigos/Sozin/SozinBackNew/SozinBackNew.csproj",
+      "projectUniqueName": "/home/miku/Codigos/Sozin/SozinBackNew/SozinBackNew.csproj",
       "projectName": "SozinBackNew",
-      "projectPath": "/mnt/ssd1tb/Codigos/Sozin/SozinBackNew/SozinBackNew.csproj",
+      "projectPath": "/home/miku/Codigos/Sozin/SozinBackNew/SozinBackNew.csproj",
       "packagesPath": "/home/miku/.nuget/packages/",
-      "outputPath": "/mnt/ssd1tb/Codigos/Sozin/SozinBackNew/obj/",
+      "outputPath": "/home/miku/Codigos/Sozin/SozinBackNew/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/miku/.nuget/NuGet/NuGet.Config"
@@ -4535,6 +4535,7 @@
         "net8.0"
       ],
       "sources": {
+        "/usr/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4608,7 +4609,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

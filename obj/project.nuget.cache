@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Pugox3cEPE=",
+  "dgSpecHash": "tMXAmLQ+oi0=",
   "success": true,
-  "projectFilePath": "/mnt/ssd1tb/Codigos/Sozin/SozinBackNew/SozinBackNew.csproj",
+  "projectFilePath": "/home/miku/Codigos/Sozin/SozinBackNew/SozinBackNew.csproj",
   "expectedPackageFiles": [
     "/home/miku/.nuget/packages/entityframework/6.5.1/entityframework.6.5.1.nupkg.sha512",
     "/home/miku/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
